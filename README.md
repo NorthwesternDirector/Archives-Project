@@ -7,12 +7,12 @@
 
 ##### 档案文件的地理信息化
 
-1. 根据档案挂接的地理坐标属性，将其表示的地理范围可视化在地图上，并添加点击响应事件
+1. 根据档案挂接的地理坐标属性，将其表示的地理范围可视化在地图上，并添加点击响应事件<br>
     <div align=center><img width=750px  src="https://github.com/NorthwesternDirector/Archives-Project/blob/master/captures/project%20(1).png"></div>
-    <div align=center><img width=750px  src="https://github.com/NorthwesternDirector/Archives-Project/blob/master/captures/project%20(5).png"></div>
-2. 地图缩放至某等级后可显示其档案序列编号，并可进行模糊搜索编号
-    <div align=center><img width=750px  src="https://github.com/NorthwesternDirector/Archives-Project/blob/master/captures/project%20(4).png"></div>
-3. 绘制坐标范围，并将其与工程挂接，可批量导入工程后等待挂接
+    <div align=center><img width=750px  src="https://github.com/NorthwesternDirector/Archives-Project/blob/master/captures/project%20(5).png"></div><br>
+2. 地图缩放至某等级后可显示其档案序列编号，并可进行模糊搜索编号<br>
+    <div align=center><img width=750px  src="https://github.com/NorthwesternDirector/Archives-Project/blob/master/captures/project%20(4).png"></div><br>
+3. 绘制坐标范围，并将其与工程挂接，可批量导入工程后等待挂接<br>
     <div align=center><img width=750px  src="https://github.com/NorthwesternDirector/Archives-Project/blob/master/captures/project%20(7).png"></div>
     <div align=center><img width=750px  src="https://github.com/NorthwesternDirector/Archives-Project/blob/master/captures/project%20(9).png"></div>
 4. 后期可根据提供的地理属性shp文件直接挂载系统内的档案数据，无需手动绘制（20190803）
